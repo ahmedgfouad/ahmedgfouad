@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedgfouad/ahmedgfouad/main/profile.jpg" width="150px" style="border-radius:50%;" />
+<img src="https://raw.githubusercontent.com/ahmedgfouad/ahmedgfouad/main/profile.jpg" width="150px" style="border-radius:50%;" />
 </p>
 
 <p align="center">
