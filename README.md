@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
 <h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
-</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ahmedgfouad/ahmedgfouad/main/profile.jpg" width="150px" style="border-radius:50%;" />
