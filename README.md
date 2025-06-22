@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Freshly App](https://github.com/ahmedgfouad/Freshly)
 - 🌱 I’m currently learning **Flutter Animations**, **Clean Architecture**, and **Riverpod**
 - 💬 Ask me about **Flutter, Dart, Firebase, BLoC, Hive**
-- 📫 How to reach me: **ahmed@example.com**
+- 📫 How to reach me: **ahmedgfouad2020@gmail.com**
 - ⚡ Fun fact: I love clean UI, subtle animations, and solving real-world problems.
 
 ---
