@@ -17,7 +17,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Fasila App](https://github.com/ahmedgfouad/Fasila)
+- 🔭 I’m currently working on [Class One](https://github.com/ahmedgfouad/Class-One)
 - 🌱 I’m currently learning **Flutter Animations**, **Clean Architecture**, and **Riverpod**
 - 💬 Ask me about **Flutter, Dart, Firebase, BLoC, Hive**
 - 📫 How to reach me: **ahmedgfouad2020@gmail.com**
